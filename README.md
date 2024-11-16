@@ -1,5 +1,5 @@
 # Hey, I'm Noah 👋
-### A Software developer from Germany 
+### 📍 A Software developer from Germany 
 
 👨‍💻 I'm currently working on a Blender add-on called **NodeRunner**! Check it out [here](https://extensions.blender.org/approval-queue/node-runner/).
 
